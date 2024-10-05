@@ -27,8 +27,7 @@ https://github.com/user-attachments/assets/85a163b1-c80f-44ad-b52e-e1f9edc6ca9d
 
 ## 🛠 Technologies Used
 
-- **Unity**
-- **C#**
+![](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white) ![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 ## 🔧 How to Play
 
